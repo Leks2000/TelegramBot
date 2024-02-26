@@ -10,4 +10,3 @@
 ![image](https://github.com/Leks2000/TelegramBot/assets/107043945/6d1281fd-bf5a-45c5-84f8-ffd7e104fd3f)
 ![image](https://github.com/Leks2000/TelegramBot/assets/107043945/4ab32f80-8b66-4d1d-b0a0-e662d45bebaf)
 ![image](https://github.com/Leks2000/TelegramBot/assets/107043945/f01d8583-ad5e-4223-8892-82b41077633d)
-![Uploading image.png…]()
