@@ -1,18 +1,19 @@
 # TelegramBot
 <div align="center">
+  
 Телеграм бот, который присылает рандомный мем.  
-</center>
+
 
 ![image](https://github.com/Leks2000/TelegramBot/assets/107043945/94bf40e9-b892-43fa-baa8-a5b19fc7215a)  
 
-<center>
+
 БД для бота   
-</center>
+
 
 ![image](https://github.com/Leks2000/TelegramBot/assets/107043945/b856b80b-7f09-4586-9960-dedbb67ff56b)  
-<center>
+
 Основные функции бота  
-</center>
+
 
 ![image](https://github.com/Leks2000/TelegramBot/assets/107043945/1075912d-9940-4348-8711-64999cd4d4d4)
   
